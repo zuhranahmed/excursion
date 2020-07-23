@@ -54,3 +54,29 @@ body {
   padding: 5px;
   margin: 0 auto;
 }
+
+/* update section styling */
+#update {
+  max-width: 1400px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#update img {
+  padding: 10px;
+}
+#update h2 {
+  font-size: 42px;
+  font-weight: normal;
+  padding: 10px;
+}
+#update p a {
+  font-size: 16px;
+  color: aquamarine;
+  padding: 5px;
+}
+footer {
+  padding: 20px;
+  float: right;
+  color: gray;
+}
